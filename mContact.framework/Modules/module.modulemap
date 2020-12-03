@@ -1,0 +1,6 @@
+framework module mContact {
+  umbrella header "mContact.h"
+
+  export *
+  module * { export * }
+}
